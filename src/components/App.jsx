@@ -30,9 +30,7 @@ function App() {
       </div>
       <div>
         <ul>
-          {items.map(todoItem => (
-           <ToDoItem text = {todoItem}/>
-          ))}
+          {items.map(todoItem => (<ToDoItem text = {todoItem}/>))}
         </ul>
       </div>
     </div>
