@@ -1,9 +1,6 @@
 # React-shopping-list
 ![shopping-list](https://github.com/miya-w/React-shopping-list/blob/main/imgs/shoppinglist00.png)
 
-
-
-
 **What will you learn in this React project?**
 CRUD -> Create, Read, Update, Delete
 ### 1.Create & Read (Add function)
@@ -24,3 +21,6 @@ CRUD -> Create, Read, Update, Delete
 map() method
 arrow function
 [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+---
+### 3. 
