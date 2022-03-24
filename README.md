@@ -1,5 +1,5 @@
 # React-shopping-list
-![shopping-list](https://github.com/miya-w/React-shopping-list/blob/main/imgs/shoppinglist-add.png)
+![shopping-list](https://github.com/miya-w/React-shopping-list/blob/01-create-add-function/imgs/shoppinglist-add.png)
 
 **What will you learn in this React project?**
 
