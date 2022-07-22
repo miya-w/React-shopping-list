@@ -13,5 +13,3 @@ function ToDoItem(props) {
 }
 
 export default ToDoItem;
-
-export default ToDoItem;
